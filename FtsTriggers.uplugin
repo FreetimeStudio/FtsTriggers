@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "FreetimeStudio Triggers",
+	"Description": "A module containing rudimentary trigger interfaces and components",
+	"Category": "FreetimeStudio",
+	"CreatedBy": "FreetimeStudio",
+	"CreatedByURL": "https://www.freetimestudio.net",
+	"DocsURL": "https://github.com/FreetimeStudio/FtsTriggers",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/FreetimeStudio/FtsTriggers/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FtsTriggers",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
